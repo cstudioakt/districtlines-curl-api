@@ -1,2 +1,2 @@
 # districtlines-curl-api
-Districtlines.com - Restful Products API Call.
+Districtlines.com - RESTful Products API Call.
