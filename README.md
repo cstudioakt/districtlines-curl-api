@@ -1,2 +1,2 @@
 # districtlines-curl-api
-Simple PHP cURL API listing of products. Links out to DL for purchasing.
+Districtlines.com - Restful Products API Call.
